@@ -28,3 +28,4 @@ sekcja html
 ```
 
 do strony html https://github.com/marekug/strona-testowa-w-markdown/generated_pages/themes
+link do strony internetowejstrona testowa w mark down http://marekug.github.io/strona-testowa-w-markdown/
