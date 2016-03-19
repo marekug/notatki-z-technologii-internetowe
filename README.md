@@ -5,7 +5,7 @@ https://jsfiddle.net/hfw9yx6L/
 Strona do testowania kodu HTML5
 
 sekcja css
-```html
+```css
 h1 {color: red;}
 p {background-color: green; color: white;}
 .first {color: #ccc;}
