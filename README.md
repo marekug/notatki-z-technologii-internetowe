@@ -26,3 +26,5 @@ sekcja html
 </div>
 </body>
 ```
+
+do strony html https://github.com/marekug/strona-testowa-w-markdown/generated_pages/themes
