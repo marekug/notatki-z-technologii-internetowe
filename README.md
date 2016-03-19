@@ -1,7 +1,7 @@
 # notatki-z-technologii-internetowe
 Tworzymy stronę z CSS
 
-https://jsfiddle.net/hfw9yx6L/
+https://jsfiddle.net
 Strona do testowania kodu HTML5
 
 sekcja css
